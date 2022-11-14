@@ -18,7 +18,9 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: noiseimpera blog (saverio puccia)
+title: spuccia aka noiseimpera 😈
+subtitle: >-
+    Un quaderno degli appunti per un uso della tecnologia più consapevole.
 email: saveriopucciait@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Un quaderno degli appunti per un uso della tecnologia più consapevole.
@@ -37,10 +39,21 @@ plugins:
 # for this theme at: https://github.com/mmistakes/minimal-mistakes/blob/master/_config.yml
 
 locale: it-IT
-minimal_mistakes_skin: dark
+minimal_mistakes_skin: air   #"default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 comments: 
   provider: disqus
-
+# Site Footer
+footer:
+  links:
+    - label: Twitter
+      icon: fab fa-fw fa-twitter-square
+      url: https://twitter.com/noiseimpera
+    - label: Facebook
+      icon: fab fa-fw fa-facebook-square
+      url: https://facebook.com
+    - label: GitHub
+      icon: fab fa-fw fa-github
+      url: https://github.com/spuccia
 
 #include: ["_pages"]
 # Exclude from processing.

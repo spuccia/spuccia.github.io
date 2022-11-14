@@ -4,15 +4,6 @@ title: About
 permalink: /about/
 ---
 
-This is a customization of a Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+Mi occupo di sviluppo software da oltre 10 anni e ho contribuito alla costruzione di applicazioni web di tutte le dimensioni, per startup, aziende e istituzioni pubbliche.
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+Da qualche tempo mi interesso di `CyberSecurity` e `Web3` e cerco di capire come usare la tecnologia e la rete per migliorare la vita delle persone.
