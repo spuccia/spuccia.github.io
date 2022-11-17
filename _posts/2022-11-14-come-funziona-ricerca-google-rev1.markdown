@@ -4,10 +4,14 @@ title:  "Come funziona una ricerca Google dal punto di vista della privacy"
 date:   2022-11-14 09:37:14 +0100
 categories: cybersecurity
 share: true
-published: false
+published: true
 read_time: true
+header:
+  image: /assets/google-search-post/google-mountain-view.jpeg 
 ---
-Il tema della privacy su Internet è più che mai attuale e fortemente dibattuto e questa non può che essere una ottima notizia.
+<!-- ![Google HQ, Mountain View!](/assets/google-search-post/google-549570792.jpeg "Google HQ") -->
+
+Il tema della privacy su Internet è più che mai attuale e fortemente dibattuto. <!-- todo inserire qualche nota/numero a testimonianza di ciò -->
 Le violazioni epocali di questi anni (Cambridge Analytics su tutti) ampiamente documentati dai media e la nostra maggiore esperienza nell’uso di Internet hanno reso evidente a tutti quanto sia necessario accrescere consapevolezza su questi temi.
 
 Parecchi di noi forse se ne sono resi conto quando hanno iniziato a lamentare l’inquietante sensazione di essere raggiunti da pubblicità che pare ascoltare le nostre conversazioni.<br>
@@ -34,7 +38,7 @@ Google fornisce dettagli di questa sorveglianza nei suoi [termini di servizio](h
 Se sei preoccupato di come Google traccia e memorizza le tue informazioni, fatti coraggio e dai anche solo una rapida occhiata a queste scartoffie.
 
 
-<u>La situazione cambia se effettui le ricerche senza essere loggato. In questo caso Google richiede</u>
+<u>La situazione cambia se effettui le ricerche senza essere loggato</u>. In questo caso Google richiede
 
 * la tua posizione geografica
 * il tuo indirizzo IP
@@ -49,7 +53,7 @@ E utilizzare la celebre Navigazione in Incognito di Chrome (qualcuno la conosce 
 
 DuckDuckGo è un ottimo motore di ricerca, gratuito che non fa profilazione degli utenti e non memorizza la cronologia delle ricerche e ciò si traduce in meno pubblicità che sembra cucita apposta per te. Inoltre, di default blocca i trackers che trasmettono tue informazioni a Google, Facebook, etc.
 
-Per saperne di più puoi visitare il [sito ufficiale][duckduckgo] e impostarlo temporaneamente come motore di ricerca di default nel tuo browser:
+Per saperne di più puoi visitare il [sito ufficiale][duckduckgo] e provarlo anche solo temporaneamente come motore di ricerca di default nel tuo browser:
 
 [Imposta su Edge][edge]<br>
 [Imposta su Chrome][chrome]<br>
