@@ -17,7 +17,7 @@ Parecchi di noi forse se ne sono resi conto quando hanno iniziato a lamentare l�
 Come questo avvenga non ci è ancora chiaro, il timore è che le nostre conversazioni vengano registrate e poi analizzate per capire cosa ci interessa e cosa non ci interessa. 
 Altra ipotesi è che l’insieme delle ricerche che facciamo, incrociate tra di loro, forniscano a Google (o Amazon) input per elaborare con largo anticipo i nostri prossimi “bisogni”. 
 
-Ne consegue che persino la scelta del motore di ricerca da usare è un atto politico.
+Ne consegue che persino la scelta del motore di ricerca da usare è praticamente un atto politico.
 
 Non elencherò qui i motivi per cui Google è preferibile rispetto agli altri motori di ricerca per performance ed efficacia: la lotta è impari, Google è ad oggi il migliore per risultati ottenuti.
 Piuttosto mi soffermerò sui motivi per cui io ho smesso di usarlo come motore di ricerca “principale”.
@@ -48,7 +48,7 @@ Se sei preoccupato di come Google traccia e memorizza le tue informazioni, fatti
   
 Questi dati non vengono solamente elaborati da Google per scopi di business ma trasmessi anche ai proprietari dei siti che visitate se questi fanno uso di Google Analytics per produrre le statistiche dei loro siti.
 
-E utilizzare la celebre Navigazione in Incognito di Chrome (qualcuno la conosce come modalità Pornhub) non risolverà questi problemi dato che Google continuerà a raccogliere informazioni su di te e le tue ricerche.
+E utilizzare la celebre Navigazione in Incognito di Chrome non risolverà questi problemi dato che Google continuerà a raccogliere informazioni su di te e le tue ricerche.
 
 DuckDuckGo è un ottimo motore di ricerca, gratuito che non fa profilazione degli utenti e non memorizza la cronologia delle ricerche e ciò si traduce in meno pubblicità che sembra cucita apposta per te. Inoltre, di default blocca i trackers che trasmettono tue informazioni a Google, Facebook, etc.
 
