@@ -1,7 +1,7 @@
 ---
 layout: single
 title:  "Come funziona una ricerca Google dal punto di vista della privacy"
-date:   2022-11-14 09:37:14 +0100
+date:   2022-11-19 15:00:00 +0100
 categories: cybersecurity
 share: true
 published: true
@@ -9,14 +9,13 @@ read_time: true
 header:
   image: /assets/google-search-post/google-mountain-view.jpeg 
 ---
-<!-- ![Google HQ, Mountain View!](/assets/google-search-post/google-549570792.jpeg "Google HQ") -->
 
 Il tema della privacy su Internet è più che mai attuale e fortemente dibattuto. <!-- todo inserire qualche nota/numero a testimonianza di ciò -->
 Le violazioni epocali di questi anni (Cambridge Analytics su tutti) ampiamente documentati dai media e la nostra maggiore esperienza nell’uso di Internet hanno reso evidente a tutti quanto sia necessario accrescere consapevolezza su questi temi.
 
 Parecchi di noi forse se ne sono resi conto quando hanno iniziato a lamentare l’inquietante sensazione di essere raggiunti da pubblicità che pare ascoltare le nostre conversazioni.<br>
-Non sappiamo ancora spiegarci in che modo questo avvenga (e non abbiamo ancora notizia di violazioni legate a dispositivi che si attivano per "origliare"). 
-Una delle ipotesi è che l’insieme delle ricerche che facciamo, incrociate tra di loro, forniscano a Google (o Amazon) input per elaborare con largo anticipo i nostri prossimi “bisogni”. 
+Come questo avvenga non ci è ancora chiaro, il timore è che le nostre conversazioni vengano registrate e poi analizzate per capire cosa ci interessa e cosa non ci interessa. 
+Altra ipotesi è che l’insieme delle ricerche che facciamo, incrociate tra di loro, forniscano a Google (o Amazon) input per elaborare con largo anticipo i nostri prossimi “bisogni”. 
 
 Ne consegue che la scelta del motore di ricerca da usare deve essere fatta in coscienza di ciò.
 
