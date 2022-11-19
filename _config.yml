@@ -41,9 +41,9 @@ remote_theme: "mmistakes/minimal-mistakes@4.24.0"
 locale: it-IT
 minimal_mistakes_skin: air   #"default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 comments: 
-  provider: disqus
+  provider: "disqus"
   disqus:
-    shortname: spuccia
+    shortname: "spuccia"
 # Site Footer
 footer:
   links:
