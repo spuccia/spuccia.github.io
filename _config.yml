@@ -34,6 +34,7 @@ github_username:  spuccia
 theme: minimal-mistakes-jekyll
 plugins:
   - jekyll-feed
+  - jekyll-include-cache
 
 # Please give a look to the complete documentation about properties and configuration
 # for this theme at: https://github.com/mmistakes/minimal-mistakes/blob/master/_config.yml
