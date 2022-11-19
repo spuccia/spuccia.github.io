@@ -17,7 +17,7 @@ Parecchi di noi forse se ne sono resi conto quando hanno iniziato a lamentare l�
 Come questo avvenga non ci è ancora chiaro, il timore è che le nostre conversazioni vengano registrate e poi analizzate per capire cosa ci interessa e cosa non ci interessa. 
 Altra ipotesi è che l’insieme delle ricerche che facciamo, incrociate tra di loro, forniscano a Google (o Amazon) input per elaborare con largo anticipo i nostri prossimi “bisogni”. 
 
-Ne consegue che la scelta del motore di ricerca da usare deve essere fatta in coscienza di ciò.
+Ne consegue che persino la scelta del motore di ricerca da usare è un atto politico.
 
 Non elencherò qui i motivi per cui Google è preferibile rispetto agli altri motori di ricerca per performance ed efficacia: la lotta è impari, Google è ad oggi il migliore per risultati ottenuti.
 Piuttosto mi soffermerò sui motivi per cui io ho smesso di usarlo come motore di ricerca “principale”.
