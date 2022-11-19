@@ -23,7 +23,7 @@ subtitle: >-
   Appunti per un uso consapevole della tecnologia.
 email: saveriopucciait@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Built as static blog with ❤️.
+  Non il solito wordpress. Statico, leggero, fatto con ❤️.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: noiseimpera
