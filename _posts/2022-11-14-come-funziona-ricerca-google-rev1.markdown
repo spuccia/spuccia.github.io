@@ -4,7 +4,6 @@ title:  "Come funziona una ricerca Google dal punto di vista della privacy"
 date:   2022-11-19 15:00:00 +0100
 categories: cybersecurity
 share: true
-comments: true
 published: true
 read_time: true
 header:
