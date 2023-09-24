@@ -60,6 +60,7 @@ defaults:
       type: posts
     values:
       show_date: false
+      comments: true
 
 #include: ["_pages"]
 # Exclude from processing.
