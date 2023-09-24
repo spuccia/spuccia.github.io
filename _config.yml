@@ -39,7 +39,7 @@ plugins:
 # for this theme at: https://github.com/mmistakes/minimal-mistakes/blob/master/_config.yml
 remote_theme: "mmistakes/minimal-mistakes@4.24.0"
 locale: it-IT
-minimal_mistakes_skin: air   #"default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin: dark   #"default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 comments: 
   provider: "disqus"
   disqus:
