@@ -3,7 +3,6 @@ layout: single
 title:  "Come funziona una ricerca Google dal punto di vista della privacy"
 categories: cybersecurity
 share: true
-comments: true
 published: true
 read_time: true
 header:
