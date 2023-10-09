@@ -9,17 +9,14 @@ header:
   image: /assets/google-search-post/google-mountain-view.jpeg 
 ---
 
-Il tema della privacy su Internet è più che mai attuale e fortemente dibattuto. <!-- todo inserire qualche nota/numero a testimonianza di ciò -->
-Le violazioni epocali di questi anni (Cambridge Analytics su tutti) ampiamente documentati dai media e la nostra maggiore esperienza nell’uso di Internet hanno reso evidente a tutti quanto sia necessario accrescere consapevolezza su questi temi.
+Il tema della privacy su Internet è estremamente rilevante in questo momento e sta suscitando un acceso dibattito. Le recenti e significative violazioni della privacy, come il caso di Cambridge Analytica, ampiamente documentate dai mezzi di comunicazione, insieme alla crescente familiarità nell'uso di Internet, hanno reso evidente quanto sia importante sensibilizzare il pubblico attorno al tema.
 
-Parecchi di noi forse se ne sono resi conto quando hanno iniziato a lamentare l’inquietante sensazione di essere raggiunti da pubblicità che pare ascoltare le nostre conversazioni.<br>
-Come questo avvenga non ci è ancora chiaro, il timore è che le nostre conversazioni vengano registrate e poi analizzate per capire cosa ci interessa e cosa non ci interessa. 
-Altra ipotesi è che l’insieme delle ricerche che facciamo, incrociate tra di loro, forniscano a Google (o Amazon) input per elaborare con largo anticipo i nostri prossimi “bisogni”. 
+Molti di noi hanno forse iniziato a notare questa preoccupante sensazione quando hanno cominciato a percepire che la pubblicità sembrava rispondere ai nostri discorsi. Come sia possibile ciò non ci è ancora del tutto chiaro ma in noi sorge il timore che le conversazioni vengano registrate e successivamente analizzate. Altra ipotesi è che le informazioni derivanti dalle nostre ricerche online, incrociate tra loro, possano essere utilizzate da giganti come Google o Amazon per anticipare le nostre future esigenze.
 
-Ne consegue che persino la scelta del motore di ricerca da usare è praticamente un atto politico.
+Di conseguenza, la decisione di quale motore di ricerca utilizzare diventa atto politico.
 
-Non elencherò qui i motivi per cui Google è preferibile rispetto agli altri motori di ricerca per performance ed efficacia: la lotta è impari, Google è ad oggi il migliore per risultati ottenuti.
-Piuttosto mi soffermerò sui motivi per cui io ho smesso di usarlo come motore di ricerca “principale”.
+Non è mia intenzione qui elencare i motivi per cui Google è preferibile rispetto agli altri motori di ricerca per performance ed efficacia: la lotta è impari, Google è ad oggi il migliore per risultati ottenuti.
+Piuttosto preferisco concentrarmi sui motivi per cui io ho smesso di usarlo come motore di ricerca principale.
 
 ### Le informazioni Che Google Search raccoglie su di noi
 Se sei loggato con un tuo account Google, colleziona questi dati
