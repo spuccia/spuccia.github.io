@@ -28,10 +28,9 @@ Se sei loggato con un tuo account Google, colleziona questi dati
 * le immagini che visualizzi
 * i video che guardi
 
-Google fornisce dettagli di questa sorveglianza nei suoi [termini di servizio](https://policies.google.com/terms), così come nella loro [privacy policy](https://policies.google.com/privacy).
+Google fornisce dettagli di questa sorveglianza nei suoi [termini di servizio](https://policies.google.com/terms) e nella loro [privacy policy](https://policies.google.com/privacy).
 
-Se sei preoccupato di come Google traccia e memorizza le tue informazioni, fatti coraggio e dai anche solo una rapida occhiata a queste scartoffie.
-
+Se hai preoccupazioni riguardo al modo in cui Google traccia e conserva le tue informazioni, ti incoraggio a dare una rapida occhiata a questi documenti.
 
 <u>La situazione cambia se effettui le ricerche senza essere loggato</u>. In questo caso Google richiede
 
