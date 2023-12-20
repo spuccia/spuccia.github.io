@@ -16,6 +16,8 @@ Comprensibili per chi non si preoccupa ancora abbastanza di difendere i dati per
 Comprensibili soprattutto per chi gestisce uffici e comparti della Pubblica Amministrazione o di Aziende e non sta affrontando seriamente la protezione delle infrastrutture (e quindi dei nostri dati).
 Sono coloro che non sono ancora consapevoli del danno che un prossimo grave attacco potrebbe recargli.
 
+![attacchi informatici pubblica amministrazione](/assets/attacco-westpole/hacked.jpeg)
+
 @francescocosta:
 
 > "Quando leggiamo di un attacco come questo dobbiamo sforzarci di leggerlo come un sabotaggio alla ferrovia, un attacco terroristico contro una infrastruttura importante del paese perché di questo si tratta. 
