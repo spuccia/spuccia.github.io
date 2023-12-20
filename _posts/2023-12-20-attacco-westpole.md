@@ -6,7 +6,7 @@ share: true
 published: true
 read_time: true
 header:
-  image: /assets/attacco-westpole/_450f3c22-14a2-476f-909e-21f21eb697e6.jpeg
+  image: /assets/attacco-westpole/hacked.jpeg
 ---
 
 A proposito dell’ultimo, parecchio grave ed esteso, attacco informatico a Westpole/PA Digitale voglio riportare le parole di @francescocosta
