@@ -18,9 +18,9 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: 😈 blocco note di saverio puccia 📒
+title: "{ saverio puccia }" 
 subtitle: >-
-  Appunti sparsi su tecnologia, musica e altro
+  appunti sparsi su tecnologia, musica e altro
 email: saveriopucciait@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Non il solito wordpress. Statico, leggero, fatto con ❤️.
