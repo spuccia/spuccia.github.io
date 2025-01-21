@@ -45,7 +45,11 @@ Questi dati non vengono solamente elaborati da Google per scopi di business ma t
 
 E utilizzare la celebre Navigazione in Incognito di Chrome non risolverà questi problemi dato che Google continuerà a raccogliere informazioni su di te e le tue ricerche.
 
-DuckDuckGo è un ottimo motore di ricerca, gratuito che non fa profilazione degli utenti e non memorizza la cronologia delle ricerche e ciò si traduce in meno pubblicità che sembra cucita apposta per te. Inoltre, di default blocca i trackers che trasmettono tue informazioni a Google, Facebook, etc.
+### DuckDuckGo
+
+![DuckDuckGo](../assets/images/duckduckgo/DuckDuckGoLogo-Horizontal@4x.png)
+
+DuckDuckGo è un motore di ricerca privacy-focused, gratuito che non fa profilazione degli utenti e non memorizza la cronologia delle ricerche e ciò si traduce in meno pubblicità che sembra cucita apposta per te. Inoltre, di default blocca i trackers che trasmettono tue informazioni a Google, Facebook, etc.
 
 Per saperne di più puoi visitare il [sito ufficiale][duckduckgo] e provarlo anche solo temporaneamente come motore di ricerca di default nel tuo browser:
 
