@@ -15,7 +15,7 @@ it: &DEFAULT_IT
   toc_label                  : "Indice della pagina"
   ext_link_label             : "Link"
   less_than                  : "meno di"
-  minute_read                : "minuto/i di lettura"
+  minute_read                : "minuti di lettura"
   share_on_label             : "Condividi"
   meta_label                 :
   tags_label                 : "Tags:"
@@ -30,7 +30,7 @@ it: &DEFAULT_IT
   powered_by                 : "Powered by"
   website_label              : "Website"
   email_label                : "Email"
-  recent_posts               : "Articoli Recenti"
+  recent_posts               : "Ultimi articoli"
   undefined_wpm              : "Parametro words_per_minute non definito in _config.yml"
   comment_form_info          : "Il tuo indirizzo email non sarà pubblicato. Sono segnati i campi obbligatori"
   comment_form_comment_label : "Commenta"
