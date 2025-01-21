@@ -1,6 +1,6 @@
 ---
 layout: single
-title: About
+title: bio
 permalink: /about/
 ---
 
