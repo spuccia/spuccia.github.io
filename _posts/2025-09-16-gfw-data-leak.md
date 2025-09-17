@@ -33,7 +33,7 @@ Ma se questo riguarda la Cina e altri paesi la cui deriva autoritaria e libertic
 Uno strumento di questo tipo, commercializzato e pronto all'uso, potrebbe essere adottato, in forma integrale o parziale, anche in contesti democratici e occidentali.
 Non sarebbe la prima volta che pratiche di sorveglianza di massa vengano implementate in nome della “sicurezza nazionale”: basti ricordare lo scandalo NSA che qualche anno fa ha mostrato al mondo l’estensione del controllo digitale negli Stati Uniti.
 
-Il data leak del Grande Firewall quindi non rappresenta solo un caso tecnico o un episodio per addetti ai lavori: è una finestra su un futuro possibile della rete, in cui la libertà digitale diventa condizionata da algoritmi di sorveglianza e controllo.
+Il data leak del Grande Firewall quindi non rappresenta solo un caso tecnico o un episodio per addetti ai lavori: è una finestra su un futuro possibile della rete, in cui la libertà digitale è sottomessa ad algoritmi di sorveglianza e controllo.
 Le analisi in corso permetteranno di comprendere meglio l’architettura della censura cinese, ma soprattutto offrono un’occasione per riflettere sul nostro rapporto con la tecnologia e sulla facilità con cui strumenti pensati per la “sicurezza” possono trasformarsi in strumenti di oppressione.
 
 Dunque, non facciamo l’errore di considerare questa vicenda come un fenomeno lontano.
