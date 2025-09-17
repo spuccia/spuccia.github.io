@@ -1,6 +1,6 @@
 ---
 layout: single
-title:  "Il data leak del Grande Firewall cinese: perché dovremmo preoccuparci"
+title:  "Il più grande data leak del Grande Firewall cinese"
 date:   2025-09-16 09:00:00 +0100
 categories: cybersecurity
 share: true
