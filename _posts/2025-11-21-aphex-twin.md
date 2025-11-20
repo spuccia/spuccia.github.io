@@ -1,6 +1,6 @@
 ---
 layout: single
-title:  "Tema: Il mio personaggio preferito - Svolgimento: Aphex Twin"
+title:  "I love Aphex Twin"
 date:   2025-11-21 00:00:00 +0100
 categories: music
 share: true
