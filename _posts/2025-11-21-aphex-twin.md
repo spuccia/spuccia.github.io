@@ -10,7 +10,6 @@ header:
   image: /assets/aphex-twin/afx.jpg
 ---
 
-
 Stasera ho riaperto un libro che avevo acquistato qualche anno fa e che avevo iniziato a leggere prima di darlo in prestito. Da un po' mi capita di leggere di musica più di quanto in realtà ne ascolti. E di comprare libri e riviste più di quante ne possa materialmente leggere.<br>
 Del resto, ho avuto sempre più interesse per le storie che girano attorno alla musica che per la musica stessa. Le melodie, il ritmo o le parole, il genere…tutto può tranquillamente passare in secondo piano se la storia sotto attira la mia attenzione.<br>
 Credo si tratti della stessa inclinazione che da gamer mi ha trasformato in programmatore: smontare un computer e rimontarlo mi interessava più di usarlo, e crackare un videogioco è sempre stato per me più divertente che giocarci.<br>
