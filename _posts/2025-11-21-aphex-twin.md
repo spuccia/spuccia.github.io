@@ -82,7 +82,7 @@ Si prende gioco di tutto e tutti, passa il tempo ad architettare scherzi idioti:
         const STORAGE_KEY = 'countapi_last_visit_home';
         const TTL_MS = 12 * 60 * 60 * 1000; // don't recount within 12 hours
 
-        function show(value) { document.getElementById('visitor-count').textContent = value; }
+        // function show(value) { document.getElementById('visitor-count').textContent = value; }
 
         try {
             const last = parseInt(localStorage.getItem(STORAGE_KEY) || '0', 10);
@@ -92,17 +92,17 @@ Si prende gioco di tutto e tutti, passa il tempo ad architettare scherzi idioti:
                 const res = await fetch(hitUrl);
                 if (!res.ok) throw new Error('hit failed');
                 const data = await res.json();
-                show(data.value);
+                // show(data.value);
                 localStorage.setItem(STORAGE_KEY, String(now));
             } else {
                 // just read current value without incrementing
                 const res = await fetch(getUrl);
                 if (!res.ok) throw new Error('get failed');
                 const data = await res.json();
-                show(data.value);
+                // show(data.value);
             }
         } catch (e) {
             console.warn('CountAPI error', e);
-            show('N/A');
+            // show('N/A');
         }
     })();
