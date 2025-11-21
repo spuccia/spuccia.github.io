@@ -40,3 +40,7 @@ Dunque, non facciamo l’errore di considerare questa vicenda come un fenomeno l
 Da questi fatti si deve innescare una discussione pubblica seria e consapevole: non solo tra tecnici ed esperti di sicurezza, ma anche tra cittadini, giornalisti e politica.
 Perché parlare di sicurezza informatica non significa solo parlare di firewall, log o exploit. 
 Significa parlare di diritti, libertà e futuro della società digitale.
+
+<i>Questo articolo è stato pubblicato su Cybersecurity Italia il 17 Settembre 2025</i>
+<br>
+[https://www.cybersecitalia.it/il-data-leak-del-grande-firewall-cinese-perche-dovremmo-preoccuparci/51485/](https://www.cybersecitalia.it/il-data-leak-del-grande-firewall-cinese-perche-dovremmo-preoccuparci/51485/)
