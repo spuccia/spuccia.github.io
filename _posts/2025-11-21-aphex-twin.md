@@ -72,37 +72,3 @@ Gli aneddoti su Aphex Twin si accumulano, e a uscirne è una frastornante girand
 La stampa lo adora, Aphex Twin è il beniamino di critici e giornalisti, e lui ricambia tanta attenzione proponendo agli intervistatori di incontrarsi a bordo di un elicottero in volo su Londra, oppure - quando questi rifiutano - invitandoli nei peggiori pub di Elephant and Castle, in mezzo ai miasmi del fumo di sigaretta e alla puzza di fritto.
 
 Si prende gioco di tutto e tutti, passa il tempo ad architettare scherzi idioti: si infiltra nella fila che ogni sabato si forma davanti al Ministry Of Sound, celeberrimo tempio della club culture inglese, travestito da teddy bear. Di notte, a casa, si collega a internet e va nei forum online dove appassionati di musica elettronica e fan di Aphex Twin (che ai tempi sono praticamente la stessa cosa) parlano di lui. Si iscrive con un nome falso, e rilascia commenti scemi che immancabilmente lo portano a essere bannato dagli amministratori.
-
-<script>
-    (async function () {
-        const NS = 'spuccia.github.io'; // pick a namespace
-        const KEY = 'aphex-twin';             // pick a key per page
-        const hitUrl = `https://api.countapi.xyz/hit/${encodeURIComponent(NS)}/${encodeURIComponent(KEY)}`;
-        const getUrl = `https://api.countapi.xyz/get/${encodeURIComponent(NS)}/${encodeURIComponent(KEY)}`;
-        const STORAGE_KEY = 'countapi_last_visit_home';
-        const TTL_MS = 12 * 60 * 60 * 1000; // don't recount within 12 hours
-
-        // function show(value) { document.getElementById('visitor-count').textContent = value; }
-
-        try {
-            const last = parseInt(localStorage.getItem(STORAGE_KEY) || '0', 10);
-            const now = Date.now();
-            if (!last || now - last > TTL_MS) {
-                // increment and display new value
-                const res = await fetch(hitUrl);
-                if (!res.ok) throw new Error('hit failed');
-                const data = await res.json();
-                // show(data.value);
-                localStorage.setItem(STORAGE_KEY, String(now));
-            } else {
-                // just read current value without incrementing
-                const res = await fetch(getUrl);
-                if (!res.ok) throw new Error('get failed');
-                const data = await res.json();
-                // show(data.value);
-            }
-        } catch (e) {
-            console.warn('CountAPI error', e);
-            // show('N/A');
-        }
-    })();
