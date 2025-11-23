@@ -15,7 +15,7 @@ document.addEventListener('DOMContentLoaded', function() {
     }
     
     // API endpoint and payload
-    const apiUrl = 'https://oux9el92lj.execute-api.eu-west-1.amazonaws.com/production/counter';
+    const apiUrl = 'https://gndb8jrozc.execute-api.eu-west-1.amazonaws.com/production/counter';
     const payload = {
         id: 'spuccia-blog',
         tag: tag
