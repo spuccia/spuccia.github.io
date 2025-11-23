@@ -11,7 +11,7 @@ document.addEventListener('DOMContentLoaded', function() {
     } else if (currentPath.startsWith('/about')) {
         tag = 'about';
     } else {
-        tag = postSlug.replace('.html', '').replace('/', '');
+        tag = currentPath.replace('.html', '').replace('/', '');
     }
     
     // API endpoint and payload
