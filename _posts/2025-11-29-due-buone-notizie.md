@@ -31,7 +31,7 @@ Creare un terreno fertile per l’open source sarebbe anche avanzare tecnologica
 Tim O’Reilly
 
 Per tutto il resto vi rimando all’intervento di Salvatore Sanfilippo sul tema Open Source che racconta benissimo perchè è patrimonio da tutelare e dove ci può portare.<br>
-{% include video id="3XqF9ZT" provider="youtube" %}
+{% include video id="BBuifhInz7A" provider="youtube" %}
 
 ---
 
