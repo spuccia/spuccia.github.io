@@ -14,7 +14,7 @@ Menomale ci sono due buone notizie a compensare quella cattiva, anzi cattivissim
 
 Le belle notizie. <br> 
 La prima. <br>
-In Germania è stata lanciata una petizione per ottenere il riconoscimento del servizio civile per le attività open source.
+In Germania è stata lanciata una [petizione](https://www.openpetition.de/petition/online/recognition-of-work-on-open-source-as-volunteering-in-germany) per ottenere il riconoscimento del servizio civile per le attività open source.
 È un’iniziativa fantastica e che avrebbe senso esportare anche dalle nostre parti. 
 Riprendendo le parole (tradotte dal tedesco) degli stessi autori della petizione:
 
@@ -31,7 +31,7 @@ Creare un terreno fertile per l’open source sarebbe anche avanzare tecnologica
 Tim O’Reilly
 
 Per tutto il resto vi rimando all’intervento di Salvatore Sanfilippo sul tema Open Source che racconta benissimo perchè è patrimonio da tutelare e dove ci può portare.<br>
-https://bit.ly/3XqF9ZT
+{% include video id="3XqF9ZT" provider="youtube" %}
 
 ---
 
