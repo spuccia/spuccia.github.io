@@ -7,7 +7,7 @@ share: true
 published: true
 read_time: true
 header:
-    image: /assets/vecchi-scatoloni/cd-2002.png
+    image: /assets/vecchi-scatoloni/cd-2002.jpg
 ---
 
  
