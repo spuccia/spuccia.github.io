@@ -1,6 +1,6 @@
 ---
 layout: single
-title:  "Due notizie che fanno ben sperare"
+title:  "Vecchi scatoloni"
 date:   2025-12-29 00:00:00 +0100
 categories: tech, music, personal
 share: true
