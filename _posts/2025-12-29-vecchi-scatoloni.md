@@ -15,7 +15,7 @@ Nel 2000 l’Internet era un universo in espansione e anche la mia passione nerd
 Tra sessioni infinite ai videogame, cracking e piratate varie capitava di fare qualche esperienza di programmazione.
 
 L’altro giorno rovistavo in cantina e in uno scatolone vecchio pieno di cd ho trovato un backup del 2002.<br> 
-Lo metto su sperando di trovarci dentro vecchie foto di quel periodo che, in vano, cerco di ricostruire nei miei album fotografici (nei primi anni 2000 comprai  una fotocamera digitale e di quei file non mi è rimasto nulla).<br>
+Lo metto su sperando di trovarci dentro vecchie foto di quel periodo che, invano, cerco di ricostruire nei miei album fotografici (nei primi anni 2000 comprai  una fotocamera digitale e di quei file non mi è rimasto nulla).<br>
 Dentro però soltanto una foto, questa: 
 
 ![Io e mio fratello, ](/assets/vecchi-scatoloni/Image036.jpg)<br>
