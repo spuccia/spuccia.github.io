@@ -28,7 +28,7 @@ Se ne può ammirare un layout - totally unresponsive - , un pessimo header adole
 
 Si tratta probabilmente del backup della prima versione del sito, che ai tempi ebbe anche un discreto numero di visitatori e un buon posizionamento sul motore di ricerca Virgilio(!!).
 
-L’ho caricato [qui.](/nirvanamania/frame1.htm) 
+L’ho caricato [qui.](https://bit.ly/49d3ho7) 
 
 Intatto, così e com’era, soltanto epurato dagli elementi Flash, molto in voga in quegli anni e non più supportati dai browser moderni.
 
