@@ -34,4 +34,4 @@ Intatto, così e com’era, soltanto epurato dagli elementi Flash, molto in voga
 
  
 
-<small>*_nell’accezione che ne dà P. Graham, per me ispiratissima, l’hacker non è necessariamente un programmatore o un esperto di sicurezza, ma un individuo che abbraccia la curiosità, la voglia di comprendere a fondo i sistemi e ha la capacità di trasformare idee astratte in qualcosa di concreto._</small>
+<small>*_nell’accezione che ne dà P. Graham nel suo libro "Hackers & Painters", per me ispiratissima, l’hacker non è necessariamente un programmatore o un esperto di sicurezza informatica, ma un individuo che abbraccia la curiosità, la voglia di comprendere a fondo i sistemi e ha la capacità di trasformare idee astratte in qualcosa di concreto._</small>
