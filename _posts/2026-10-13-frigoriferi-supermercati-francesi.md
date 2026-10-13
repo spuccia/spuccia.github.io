@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "Frigoriferi a 50 gradi: cosa insegna l'attacco ai supermercati francesi"
+title: "In Francia attacco ai surgelatori. La sicurezza informatica per molte aziende è ancora un optional"
 date: 2026-10-13 09:00:00 +0100
 categories: cybersecurity
 share: true
