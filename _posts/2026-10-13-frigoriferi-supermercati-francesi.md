@@ -31,7 +31,7 @@ Intanto la soglia d'ingresso si abbassa. Trovare dispositivi esposti e vulnerabi
 
 Sebbene la sicurezza informatica sia un affare complesso, la maggior parte degli attacchi si previene con poche regole applicate con costanza.
 
-Il vulnerability assessment periodico dice cosa è esposto, cosa è obsoleto e cosa va aggiornato o sostituito. È anche il punto di partenza per un'analisi dei rischi seria. Spesso il rimedio è semplice: un aggiornamento, la sostituzione di un componente a fine vita, un pannello spostato dietro una VPN. I framework di sicurezza informatica tracciano già la via in scenari come questo:
+Un vulnerability assessment periodico dice cosa è esposto, cosa è obsoleto e cosa va aggiornato o sostituito. I costi sono abbordabili e spesso il rimedio è semplice: un aggiornamento, la sostituzione di un componente a fine vita, un pannello spostato dietro una VPN. I framework di sicurezza informatica tracciano già la via in scenari come questo:
 
 - un inventario dei dispositivi con il loro stato di supporto;
 - la rimozione dell'esposizione diretta su Internet;
@@ -41,9 +41,9 @@ Il vulnerability assessment periodico dice cosa è esposto, cosa è obsoleto e c
 Eppure tanti controlli industriali restano intatti dagli anni '90, perché "se funziona non si tocca". In Francia si è visto quanto costa questa filosofia.
 
 Poi c'è la formazione di base per i dipendenti: riconoscere una mail o un SMS di phishing, verificare un link prima di cliccare e tutte le buone pratiche per la gestione delle password e degli accessi.
-Bastano pochi principi chiari, ripassati con regolarità. Nel caso francese il phishing non ha avuto un ruolo, ma resta tra le prime cause di furto di credenziali. Un dipendente che non sa riconoscere una mail falsa espone l'intera azienda, indotti da milioni di dollari.
+Bastano pochi principi chiari, ripassati con regolarità. Nel caso francese il phishing non ha avuto un ruolo, ma resta tra le prime cause di furto di credenziali. Un dipendente che non sa riconoscere una mail falsa espone l'intera azienda o un indotto milionario.
 
-Infine maggiore attenzione ai fornitori, gli attacchi alla supply chain si susseguono senza sosta. Chi accede da remoto ai vostri sistemi, con quali credenziali, il ciclo di vita di questi accessi.
+Infine maggiore attenzione ai fornitori, gli attacchi alla supply chain come questo qui francese si susseguono senza sosta. Chi accede da remoto ai vostri sistemi, con quali credenziali, il ciclo di vita di questi accessi.
 
 Corsi di awareness e vulnerability assessment, un budget minimo per una azienda che vuole tutelare il suo business.
-Per evitare una notte come quella francese serve cultura di base, metodo e continuità.
+Per evitare una notte come quella francese servono pratiche di base, metodo e continuità.
